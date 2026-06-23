@@ -10,4 +10,4 @@ var isPalindrome = function (x) {
   }
 };
 
-isPalindrome(121);
+isPalindrome(123);

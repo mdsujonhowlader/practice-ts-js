@@ -27,5 +27,6 @@ var romanToInt = function (s) {
   return total
 };
 
-romanToInt("IIII")
+console.log(romanToInt("IIII"));
+
 
